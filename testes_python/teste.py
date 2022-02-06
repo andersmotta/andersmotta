@@ -18,3 +18,5 @@ print("Este terceiro trecho foi commitado somente pelo VSCode")
 # 4 - Realizar o sync pelo VSCode na barra azul no canto esquerdo inferior
 
 #teste inserção develop
+
+#segundo teste após pull request
