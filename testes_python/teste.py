@@ -16,3 +16,5 @@ print("Este terceiro trecho foi commitado somente pelo VSCode")
 # 2 - Efetivar o arquivo na opção 'alterações'
 # 3 - Realizar o Commit com um comentário em texto
 # 4 - Realizar o sync pelo VSCode na barra azul no canto esquerdo inferior
+
+#teste inserção develop
