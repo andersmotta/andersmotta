@@ -7,7 +7,7 @@ print("Eu estou editando o segundo comando em python para testar push / pull")
 print("Este terceiro trecho foi commitado somente pelo VSCode")
 
 
-
+print('testando pull request e fetch origin')
 
 # trecho onde todo o processo é realizado somente pelo VSCode
 # passo a passo
