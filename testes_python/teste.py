@@ -35,3 +35,6 @@ print('Nova branch no fluxo da ciet')
 
 
 print("novo commit para a develop")
+
+
+print('Vamo São Paulo')
