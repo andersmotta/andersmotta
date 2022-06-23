@@ -31,4 +31,13 @@ print('este é o segundo entendimento')
 
 print('branch de feature')
 
-# teste comentado
+print('Nova branch no fluxo da ciet')
+
+print('nova feature')
+
+print("outra nova feature")
+
+
+
+
+""" ESTE É UM TRECHO COMENTADO DA BRANCH FEATURE """
