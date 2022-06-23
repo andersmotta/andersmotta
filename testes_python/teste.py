@@ -51,6 +51,6 @@ print("outra nova feature")
 
 
 
-print("São Paulo está jogando até que bem hoje")
+print("São Paulo está jogando até que bem hoje, mas será difícil")
 
 print("Chance para o São Paulo")
