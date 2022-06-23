@@ -1,3 +1,6 @@
+from re import A
+
+
 print("Este é o meu primeiro teste com GitHub")
 
 
@@ -25,3 +28,5 @@ print('testando pull request e fetch origin')
 print('essa eu consegui entender')
 
 print('este é o segundo entendimento')
+
+print('branch de feature')
