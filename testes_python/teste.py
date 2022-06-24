@@ -64,3 +64,5 @@ print("O SÂO PAULO ESTÁ BONITO NA FRENTE!!!!")
 
 
 print("Ressuscitando a branch nova_para_teste")
+
+print("Resolvendo issue 3")
