@@ -70,3 +70,6 @@ print("Resolvendo issue 3 ")
 print("Resolvendo issue 4")
 
 print("Criando uma segunda tabela de teste")
+
+
+print("terceira tabela de teste")
